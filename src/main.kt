@@ -1,14 +1,14 @@
 fun main() {
-var T=getTown("Dodoma")
+var T=getTown("Nairobi")
     println(T)
-   println (getCall("wanda"))
+   println (getCall("Elizabeth"))
 }
 fun getTown(town:String):String{
     val T=town
     return T
 }
 fun getCall(jina:String){
-    if (jina=="virginia"){
+    if (jina=="Njeri"){
         println("thats me!")
 
     }else{
