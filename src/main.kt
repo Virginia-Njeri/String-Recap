@@ -1,4 +1,4 @@
-fun main() {
+fun mai
 var T=getTown("Dodoma")
     println(T)
    println (getCall("wanda"))
@@ -14,4 +14,7 @@ fun getCall(jina:String){
     }else{
      println("i dont know who that is")
     }
+}
+fun sper(virg.String):Int{
+    println(virg.length)
 }
